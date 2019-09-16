@@ -1,5 +1,5 @@
-require('babel-register');
-require('babel-polyfill');
+require('@babel/register');
+require('@babel/polyfill');
 require('dotenv').config();
 
 let HDWalletProvider = require("truffle-hdwallet-provider");
