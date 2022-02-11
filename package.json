@@ -11,7 +11,7 @@
     "@babel/preset-es2015": "^7.0.0-beta.53",
     "@babel/preset-react": "^7.0.0",
     "@babel/register": "^7.6.0",
-    "@openzeppelin/contracts": "^2.3.0",
+    "@openzeppelin/contracts": "^4.4.2",
     "@portis/web3": "^2.0.0-beta.43",
     "apexcharts": "3.6.3",
     "babel-loader": "^8.0.6",
